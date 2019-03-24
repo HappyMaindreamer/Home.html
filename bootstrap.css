@@ -459,7 +459,7 @@ mark,
 
 .blockquote-footer {
   display: block;
-  font-size: 80%;
+  font-size: 80%;
   color: #6c757d;
 }
 
@@ -5040,7 +5040,7 @@ a.badge-success:hover, a.badge-success:focus {
   background-color: #17a2b8;
 }
 
-a.badge-info:hover, a.badge-info:focus {
+a.badge-info:hover, a.badge-info:focus {									
   color: #fff;
   background-color: #117a8b;
 }
@@ -9882,7 +9882,9 @@ a.text-dark:hover, a.text-dark:focus {
   }
   .table .thead-dark th {
     color: inherit;
-    border-color: #dee2e6;
+  border-color: #dee2e6;
   }
+  
+  
 }
 /*# sourceMappingURL=bootstrap.css.map */
