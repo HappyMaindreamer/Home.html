@@ -32,7 +32,31 @@ h1{
     color: #189fd1;
 }
 
+.Server-Scoreboards a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+.Server-Scoreboards a:hover {
+	text-decoration: underline;
+	color: white;
+	font-size: 20px;
+}
+
+.title_2 {
+	margin-bottom: 30px;
+	font-size: 17px;
+}
+
 #particles-js{
     background: linear-gradient(to bottom, #0b5875, #189fd1);
     height: 100vh;
+}
+
+#container {
+    box-shadow: 0 5px 10px -5px rgba(0,0,0,0.5);
+    position: relative;
+    background: #f0f0f0;
+    padding: 50px;
 }
