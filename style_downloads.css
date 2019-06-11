@@ -44,6 +44,19 @@ h1{
 	font-size: 20px;
 }
 
+.Onecraft a {
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+
+.Onecraft a:hover {
+	text-decoration: underline;
+	color: white;
+	font-size: 20px;
+}
+
+
 .title_2 {
 	margin-bottom: 30px;
 	font-size: 17px;
